@@ -1,0 +1,3 @@
+N:/cpp/3/using-pointers/main/cmake-build-debug/CMakeFiles/edit_cache.dir
+N:/cpp/3/using-pointers/main/cmake-build-debug/CMakeFiles/main.dir
+N:/cpp/3/using-pointers/main/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+N:/cpp/4/pointer-to-array/pointerToArray/cmake-build-debug/CMakeFiles/pointerToArray.dir
+N:/cpp/4/pointer-to-array/pointerToArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+N:/cpp/4/pointer-to-array/pointerToArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

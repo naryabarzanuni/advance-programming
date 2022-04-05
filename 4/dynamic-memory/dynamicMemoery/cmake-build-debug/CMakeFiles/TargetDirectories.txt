@@ -1,0 +1,3 @@
+N:/cpp/4/dynamic-memory/dynamicMemoery/cmake-build-debug/CMakeFiles/dynamicMemoery.dir
+N:/cpp/4/dynamic-memory/dynamicMemoery/cmake-build-debug/CMakeFiles/edit_cache.dir
+N:/cpp/4/dynamic-memory/dynamicMemoery/cmake-build-debug/CMakeFiles/rebuild_cache.dir
